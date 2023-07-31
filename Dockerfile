@@ -23,6 +23,7 @@ RUN pip3 install pyserial six numpy
 ## crazyflie setup
 RUN git clone https://github.com/bitcraze/crazyflie-lib-python.git /usr/local/crazyflie-lib-python
 
+<<<<<<< HEAD
 ENV PYTHONPATH=/usr/local/crazyflie-lib-python:${PYTHONPATH:+:${PYTHONPATH}}
 
 ## cudg setup
@@ -32,6 +33,9 @@ RUN cd /usr/local \
 RUN git clone https://github.com/Daegeun02/cudg.git /usr/local/cudg_main/cudg
 
 ENV PYTHONPATH=/usr/local/cudg_main:${PYTHONPATH:+:${PYTHONPATH}}
+=======
+ENV PYTHONPATH=/usr/local/crazyflie-lib-python
+>>>>>>> ce88eec9237412163fedf9c9c0f6f34dab561a2d
 
 ## conda install
 # RUN wget -P ~/Downloads/ https://repo.anaconda.com/archive/Anaconda3-2022.10-Linux-aarch64.sh
