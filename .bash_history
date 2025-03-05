@@ -13,3 +13,6 @@ python3
 exit
 python3
 exit
+exit
+ls
+exit

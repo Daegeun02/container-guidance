@@ -1,4 +1,8 @@
-.cache
-.local
-.nv
-.vscode-server
+.cache/*
+.local/*
+.nv/*
+.vscode-server/*
+
+.gitconfig
+.gitignore
+.bash_history
