@@ -1,0 +1,14 @@
+2025-03-04 09:43:11.506 [info] 
+
+
+
+
+2025-03-04 09:43:11.511 [info] Extension host agent started.
+2025-03-04 09:43:11.533 [info] Started initializing default profile extensions in extensions installation folder. file:///home/jarvis/.vscode-server/extensions
+2025-03-04 09:43:11.533 [debug] No extensions are marked as removed.
+2025-03-04 09:43:11.536 [debug] ComputeTargetPlatform: linux-x64
+2025-03-04 09:43:11.539 [info] [127.0.0.1][3d87b52b][ManagementConnection] New connection established.
+2025-03-04 09:43:11.545 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/jarvis/.vscode-server/extensions
+2025-03-04 09:43:11.550 [info] Log level changed to info
+2025-03-04 09:43:11.638 [info] [127.0.0.1][084b7b8d][ExtensionHostConnection] New connection established.
+2025-03-04 09:43:11.642 [info] [127.0.0.1][084b7b8d][ExtensionHostConnection] <384> Launched Extension Host Process.

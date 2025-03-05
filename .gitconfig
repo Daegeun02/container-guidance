@@ -1,0 +1,2 @@
+[credential]
+	helper = "!f() { /home/jarvis/.vscode-server/bin/e54c774e0add60467559eb0d1e229c6452cf8447/node /tmp/vscode-remote-containers-a8a38aed-236f-4c8b-a9c3-63ea114141da.js git-credential-helper $*; }; f"
